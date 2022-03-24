@@ -2,5 +2,6 @@ theme: jekyll-theme-slate
 lang: ja-JP
 title: Schwarzerberg
 description: desc.
+mathjax-v3: true
 plugins:
   - jekyll-sitemap

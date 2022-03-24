@@ -1,5 +1,5 @@
 ---
-mathjax:true
+mathjax-v3:true
 ---
 
 # サンプルページ

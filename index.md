@@ -1,7 +1,3 @@
----
-layout: default
-title: top page
----
 # サンプルページ
 
 ## ページ一覧

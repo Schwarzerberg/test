@@ -8,3 +8,7 @@ mathjax-v3:true
 
 - [MathJax の動作確認](./mathjax-test)
 - Test
+
+$$
+\sum_{n=1}^10 n
+$$

@@ -1,3 +1,7 @@
+---
+mathjax-v3: true
+---
+
 # サンプルページ
 
 ## ページ一覧
@@ -6,6 +10,7 @@
 - 更新テスト without mathjax
 - includesも消した→追加した
 - configに追加してみた
+- ヘッダに入れてみた．
 
 $$
 \frac{1}{2}

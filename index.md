@@ -3,7 +3,7 @@
 ## ページ一覧
 
 - [MathJax の動作確認](./mathjax-test)
-動くかな？
+- 更新テスト without mathjax
 $$
 \frac{1}{2}
 $$

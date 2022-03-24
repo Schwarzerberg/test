@@ -12,7 +12,3 @@ mathjax-v3:true
 $$
 \sum_{n=1}^10 n
 $$
-
-``` bash
-test
-```

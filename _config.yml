@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 lang: ja-JP
-title: test# TODO
-description: ec # TODO
+title: Schwarzerberg
+description: desc.
 plugins:
   - jekyll-sitemap

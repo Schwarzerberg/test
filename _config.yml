@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate
 lang: ja-JP
-title: title # TODO
-description: description # TODO
+title: test# TODO
+description: ec # TODO
 plugins:
   - jekyll-sitemap
